@@ -1,0 +1,18 @@
+Name of Quantlet: 'DEDA_class_2020SS_Genetic_Algorithm'
+
+Published in: DEDA_Class_2020SS
+
+Description: 'R codes used for a DEDA talk on GA. The first part shows how canonical GA finds maxima, 
+the second part is Linear Regression using a default dataset in R.'
+
+Keywords: 
+- Genetic Algorithm
+- Canonical GA
+- Linear Regression
+- R
+- 'R Built-in Data Sets'
+
+Author: Ang Li
+
+Submitted: 20200615 Ang Li, HU Berlin LvB BRC visitor
+
